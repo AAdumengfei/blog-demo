@@ -38,8 +38,8 @@ export default {
       "/dmf/java/": {
         text: "java",
         items: [
-          { text: "java", link: "/dmf/css/css1" },
-          { text: "spring", link: "/dmf/css/css2" },
+          { text: "java", link: "/dmf/java/css1" },
+          { text: "spring", link: "/dmf/java/css2" },
         ],
       },
       "/dmf/js/": {
