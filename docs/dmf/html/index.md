@@ -2,5 +2,5 @@
 
 ## 目录
 
-- [html1](./html1.md)
-- [html2](./html2.md)
+- [HTML介绍](./html1.md)
+- [HTML语法](./html2.md)
