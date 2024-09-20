@@ -2,5 +2,5 @@
 
 ## 目录
 
-- [JavaScript基本语法](./grammar.md)
+- [JavaScript基本语法](./grammer.md)
 - [JavaScript学习教程](./tutorial.md)
