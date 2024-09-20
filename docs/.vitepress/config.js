@@ -31,8 +31,8 @@ export default {
         text: "html",
         items: [
           { text: "html", link: "/dmf/html/" },
-          { text: "html1", link: "/dmf/html/html1" },
-          { text: "html2", link: "dmf/html/html2" },
+          { text: "HTML介绍", link: "/dmf/html/html1" },
+          { text: "HTML基本语法", link: "dmf/html/html2" },
         ],
       },
       "/dmf/java/": {
