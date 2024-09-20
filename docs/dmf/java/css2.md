@@ -1,23 +1,8 @@
----
-title: css2
----
+# Spring Boot语法基础
 
-# css2
+Spring Boot是一个开源的Java框架，旨在简化Spring应用的创建和部署过程。它提供了一种快速和广泛的方式来创建独立的、生产级别的基于Spring的应用。本文档将介绍Spring Boot的基础语法知识。
 
-# JavaScript语法基础
+## 1. Spring Boot项目结构
 
-JavaScript是一种轻量级的编程语言，被广泛用于网页开发中，以实现复杂的功能和交互性。本文档将介绍JavaScript的基础语法知识。
-
-## 1. 变量声明
-
-在JavaScript中，使用`var`、`let`或`const`来声明变量。
-
-- `var`：早期ECMAScript版本中的变量声明方式，具有函数作用域。
-- `let`：ES6（ECMAScript 2015）中引入，具有块作用域。
-- `const`：用于声明一个只读的常量引用。
-
-```javascript
-var myVar = "Hello";
-let myLet = "World";
-const MY_CONSTANT = 3.14;
+一个典型的Spring Boot项目结构如下：
 
